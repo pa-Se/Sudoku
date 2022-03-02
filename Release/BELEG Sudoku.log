@@ -1,0 +1,31 @@
+﻿  Sudoku.c
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(82,7): warning C4013: "getch" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(100,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : Siehe Deklaration von "scanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(125,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : Siehe Deklaration von "fopen"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(144,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(161,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : Siehe Deklaration von "fopen"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(180,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(198,2): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : Siehe Deklaration von "fopen"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(218,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(231,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(245,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(253,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : Siehe Deklaration von "fscanf"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(266,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : Siehe Deklaration von "fopen"
+C:\Users\Paul\Desktop\prog1prakt\BELEG Sudoku\Sudoku.c(806,29): warning C4013: "main" undefiniert; Annahme: extern mit Rückgabetyp int
+  Code wird generiert.
+  2 of 30 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  BELEG Sudoku.vcxproj -> C:\Users\Paul\Desktop\prog1prakt\Release\BELEG Sudoku.exe
